@@ -8,13 +8,13 @@ A powerful and excellent Instagram spam tool that sends a million reports per mi
 # Working environment: linux & Termux
 Commands:
 
-1â€¢<code> git clone https://github.com/angkerithhack001/</code>
+1<code> git clone https://github.com/angkerithhack001/IG-SPAM.git</code>
 
-2â€¢<code> cd Spam7x</code>
+2<code> cd IG-SPAM</code>
 
-3â€¢<code> chmod +x Spam7x</code>
+3<code> chmod +x IG-SPAM</code>
 
-4â€¢<code> python spam.py</code>
+4<code> python IG.py</code>
 
 #### Follow me
 
